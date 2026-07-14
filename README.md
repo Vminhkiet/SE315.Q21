@@ -7,6 +7,7 @@ Triết lý thiết kế của game là "Easy to Play, Hard to Master": điều 
 
 Game được xây dựng để trở thành một tựa game có khả năng chơi lặp lại cao, tạo cảm giác "chơi thêm một trận nữa" tương tự những trò chơi có vòng lặp ngắn nhưng gây cuốn hút mạnh.
 
+Demo Link: https://youtu.be/_Q4WgwqdySQ
 ---
 
 ## Mục lục
