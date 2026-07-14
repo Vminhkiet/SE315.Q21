@@ -1,9 +1,12 @@
 # TankOnline — SE315.Q21
 
 Game bắn tank online nhiều người chơi, kiến trúc microservices + game server C++ + Unity client.
+
 Game hướng tới trải nghiệm đối kháng trực tuyến có nhịp độ cực nhanh, nơi mỗi trận đấu chỉ kéo dài tối đa 5 phút. Người chơi có thể tham gia bất cứ lúc nào, hoàn thành một trận đấu ngắn và ngay lập tức bắt đầu trận tiếp theo.
 Triết lý thiết kế của game là "Easy to Play, Hard to Master": điều khiển đơn giản, luật chơi dễ hiểu nhưng yêu cầu kỹ năng, khả năng đọc tình huống và phản xạ để giành chiến thắng.
+
 Game được xây dựng để trở thành một tựa game có khả năng chơi lặp lại cao, tạo cảm giác "chơi thêm một trận nữa" tương tự những trò chơi có vòng lặp ngắn nhưng gây cuốn hút mạnh.
+
 ---
 
 ## Mục lục
