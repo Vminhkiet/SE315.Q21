@@ -1,7 +1,9 @@
 # TankOnline — SE315.Q21
 
 Game bắn tank online nhiều người chơi, kiến trúc microservices + game server C++ + Unity client.
-
+Game hướng tới trải nghiệm đối kháng trực tuyến có nhịp độ cực nhanh, nơi mỗi trận đấu chỉ kéo dài tối đa 5 phút. Người chơi có thể tham gia bất cứ lúc nào, hoàn thành một trận đấu ngắn và ngay lập tức bắt đầu trận tiếp theo.
+Triết lý thiết kế của game là "Easy to Play, Hard to Master": điều khiển đơn giản, luật chơi dễ hiểu nhưng yêu cầu kỹ năng, khả năng đọc tình huống và phản xạ để giành chiến thắng.
+Game được xây dựng để trở thành một tựa game có khả năng chơi lặp lại cao, tạo cảm giác "chơi thêm một trận nữa" tương tự những trò chơi có vòng lặp ngắn nhưng gây cuốn hút mạnh.
 ---
 
 ## Mục lục
@@ -16,7 +18,7 @@ Game bắn tank online nhiều người chơi, kiến trúc microservices + game
 8. [Dừng hệ thống](#dừng-hệ-thống)
 9. [Logs & Monitoring](#logs--monitoring)
 10. [Troubleshooting](#troubleshooting)
-
+11. [Screenshots](#Screenshots)
 ---
 
 ## Kiến trúc tổng quan
@@ -509,3 +511,13 @@ SE315.Q21/
 | PostgreSQL | auth_user | userpassword |
 | Redis | — | 123456 |
 | MySQL root | root | Ts171201@ |
+
+## Screenshots
+<img width="975" height="506" alt="image" src="https://github.com/user-attachments/assets/4b300da6-def4-49af-a450-75d039aa706e" />
+<img width="975" height="423" alt="image" src="https://github.com/user-attachments/assets/1aabb657-5554-42f1-936d-3c589fae94ee" />
+<img width="975" height="391" alt="image" src="https://github.com/user-attachments/assets/fb263560-7dbb-4735-8be3-d1f7a21775db" />
+<img width="975" height="431" alt="image" src="https://github.com/user-attachments/assets/b7c50117-5d66-4bac-9655-9be112ef52e4" />
+<img width="975" height="427" alt="image" src="https://github.com/user-attachments/assets/ad72e3fb-8851-4022-ba75-d8fd83578354" />
+
+
+
